@@ -1,0 +1,7 @@
+history of opera, Dart project by Heikki K Lappalainen
+
+
+
+
+4.9.2017 Initialized empty Git repository in C:/Users/Public/IdeaDart/opera_git/opera/.git/
+add phase.dart. Only.
